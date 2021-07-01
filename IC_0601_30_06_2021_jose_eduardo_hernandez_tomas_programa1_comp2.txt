@@ -1,0 +1,1 @@
+Programa de pasos para saber el tiempo de espera un proceso de un reproductor de musica 
